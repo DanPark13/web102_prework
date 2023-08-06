@@ -19,10 +19,12 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/cRwEyEI.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/cRwEyEI' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+If GIF is not rendering, please view via this link: https://imgur.com/X0Zv4Jp.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with [gifcap](https://gifcap.dev/)
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
