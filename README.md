@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/cRwEyEI' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/X0Zv4Jp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 If GIF is not rendering, please view via this link: https://imgur.com/X0Zv4Jp.gif
 
